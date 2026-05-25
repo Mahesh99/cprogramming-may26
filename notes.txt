@@ -1,0 +1,26 @@
+programming
+- giving instructions to computer to perform some specific task
+
+C language
+- compiled - checks complete code and if no errors creates executable
+- high level - 
+- structured or functional programming paradigm
+
+high level
+- machine language - 0's and 1's - binary - 10001 101010 01011 - 3+ 4
+- assembly language - neumonics & symbols - add 3,4
+- high level - human readable - 3+4
+
+turbo C
+dev c++
+
+vs code, gcc(msys2)
+vs code - IDE - code editor
+
+
+writing and executing c programs
+
+create a file with .c extenstion
+write your code in the file
+compile it using gcc
+then execute .exe file
