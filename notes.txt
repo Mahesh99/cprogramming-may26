@@ -7,7 +7,7 @@ C language
 - structured or functional programming paradigm
 
 high level
-- machine language - 0's and 1's - binary - 10001 101010 01011 - 3+ 4
+- machine language - 0's and 1's - binary - 00011 101010 00100 - 3 + 4
 - assembly language - neumonics & symbols - add 3,4
 - high level - human readable - 3+4
 
