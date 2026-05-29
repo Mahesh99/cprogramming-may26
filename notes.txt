@@ -24,3 +24,24 @@ create a file with .c extenstion
 write your code in the file
 compile it using gcc
 then execute .exe file
+
+
+short int a=10,b=20,c=3043;
+float f=1;
+a=(char)f;
+BDMAS
+
+
+In C false is stored as 0
+true is stored as 1
+all non zero numbers are equivalent to true
+2>3 -> 0
+2==2 -> 1
+2>3 && 2==2 --> 0 && 1 --> 0
+
+!(3>2) -> !1 -> 0
+
+?:
+
+4&3
+110<<2
