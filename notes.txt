@@ -45,3 +45,11 @@ all non zero numbers are equivalent to true
 
 4&3
 110<<2
+
+(a+b*2/c)+5-a
+
+
+Loops:
+- for loop
+- while loop
+- do while loop

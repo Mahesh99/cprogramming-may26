@@ -1,7 +1,11 @@
 #include<stdio.h>
 void main() {
-    int a,b,c;
-    printf("Enter value of a,b,c:");
-    scanf("%d%d%d",&a,&b,&c);
-    
+    int a,b;
+    printf("Enter value of a,b:");
+    scanf("%d%d",&a,&b);
+    if(a>b) {
+        printf("%d is greater",a);
+    } else {
+        printf("%d is greater",b);
+    }
 }
