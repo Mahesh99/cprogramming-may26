@@ -3,13 +3,10 @@ void main() {
     int n,i;
     printf("Enter value of n:");
     scanf("%d",&n); //5
-    // for(i=1;i<=n;i++) {
-    //     printf("%d ",i);
-    // }
 
-    for(i=n;i>=1;i--) {
+    i=1;
+    while(i<=n) {
         printf("%d ",i);
+        i++;
     }
-    
 }
-
