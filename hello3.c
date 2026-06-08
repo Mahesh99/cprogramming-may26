@@ -9,6 +9,6 @@ void main() {
     printf("%d ",3*4);
     printf("%f ",3.0/4.0);
     printf("%d ",5%4);   
-    printf("%d ",a+a*2);                    
-
+    printf("%d \n",a+a*2);                    
+    printf("hello \tworld");
 }

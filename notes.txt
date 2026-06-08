@@ -34,7 +34,7 @@ BDMAS
 
 In C false is stored as 0
 true is stored as 1
-all non zero numbers are equivalent to true
+all non zero numbers are equivalent to true - if, else, switch, loops
 2>3 -> 0
 2==2 -> 1
 2>3 && 2==2 --> 0 && 1 --> 0

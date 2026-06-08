@@ -2,7 +2,7 @@
 void main() {
     int a,b,c;
     printf("Enter value of a,b,c:");
-    scanf("%d%d%d",&a,&b,&c);
+    scanf("%d%d%d",&a,&b,&c); //2,3,4
     if(a>b && a>c) {
         printf("%d is greater",a);
     } else if (b>c) {

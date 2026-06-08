@@ -12,3 +12,9 @@ machine language - 0's and 1's - 1000 1011 10101 - 3 + 4
 assembly language - neumonics & symbols - add 3,4
 high level - human readable - 3+4
 
+int temp,Temp,salary;
+
+char a='b';
+float f=1.5f;
+int k=(int)a,l;
+l=(int)f;
