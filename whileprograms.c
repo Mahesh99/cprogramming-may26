@@ -29,6 +29,21 @@ int main() {
     printf("Sum of digits of %d = %d\n", num, sum);
     return 0;
 }
+/*
+num=123
+temp=123
+digit= 123%10=3
+sum=0+3=3
+temp=123/10=12
+
+digit=12%10=2
+sum=3+2=5
+temp=12/10=1
+
+digit=1%10=1
+sum=5+1=6
+temp=1/10=0
+*/
 
 
 /*
@@ -65,7 +80,24 @@ int main() {
     
     return 0;
 }
+/*
+num=121
+original=121
 
+digit=121%10=1
+reversed=0*10+1=1
+num=121/10=12
+
+digit=12%10=2
+reversed=1*10+2=12
+num=12/10=1
+
+digit=1%10=1
+reversed=12*10+1=121
+num=1/10=0
+
+if(121==121) → palindrome
+*/
 
 /*
 C program for Armstrong number check:

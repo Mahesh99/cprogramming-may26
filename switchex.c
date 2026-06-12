@@ -16,4 +16,5 @@ void main() {
         default: printf("Unknown ship class%c\n",
                         class);
     }
+    
 }
