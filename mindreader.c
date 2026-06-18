@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 int main() {
-    srand(time(1));
+    srand(time(0));
     int a = rand()%10;
     // printf("%d", a);
     printf("Choose a number between 1 and 100: ");

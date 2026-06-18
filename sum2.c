@@ -1,8 +1,10 @@
 #include<stdio.h>
-int sum();	/* function prototype */
+int sum();	/* function prototype or function declaration */
+int k=10;
 int main()
 {
 	int c;
+    k=20;
 	c = sum();    	/*function calling */
 	printf ("\nThe sum = %d", c);
 }
