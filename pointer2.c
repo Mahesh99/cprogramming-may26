@@ -6,8 +6,12 @@ void main() {
     printf("%d %d",i,p);
     *p=20;
     printf("\n%d",i);
-    p=p+1;
+    // p=p+1;
     p=a;
     printf("\n%d %d",i,p);
     printf("\n%d %d %d",*p,*(p+1),*(p+2));
 }
+
+// j=4120
+// j=j+1
+// j=4124
